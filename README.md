@@ -31,7 +31,7 @@
 
 |c|d|
 |-|-|
-|![](src/2019081000.png)|![](src/2019081006.png)|
+|![](https://github.com/liyuan3970/Typhoon_LMQ/blob/master/src/2019081000_omega.png)|![](src/2019081006.png)|
 
 
 **论述要点**
