@@ -4,4 +4,4 @@
 # 利齐马台风登录是雷达反演的3D风场结构特征分析
 
 
-![论文结构](src/paper.png)
+![paper](src/paper.png)
