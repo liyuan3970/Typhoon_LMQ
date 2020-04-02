@@ -5,6 +5,9 @@
 
 学习利用pydda和pyart等国外处理雷达资料的库,反演利齐马登录浙江台州时的温台雷达的实时风雨情况
 
+## 文章主要图表
+https://nbviewer.jupyter.org/github/liyuan3970/Typhoon_LMQ/blob/master/README.ipynb
+
 ### 如何使用仓库
 1. AI_demo:主要是利用Conv_Lstm算法外推雷达的demo,和自己实现的一些code
 2. data一些用来测试的数据
